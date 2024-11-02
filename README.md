@@ -1,14 +1,9 @@
 ##                  Hi 👋, I'm Dogukan Surucu  
   
 
-***An Computer Engineering student who is interested in Data Science & Machine Learning & AI.***  
-  
+***I have a strong interest 
+in the fields of Data Analytics, Data Science and Machine Learning. I develop projects in these areas.***  
 
-- 🌱 I’m currently learning Advanced Machine Learning Algorithms  
-  
-
-- #### **❓ Ask me about Python, C, Data Science, Machine Learning, AI**  
-  
 
 - 📫 How to reach me: surucudogukan3@gmail.com  
   

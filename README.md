@@ -1,11 +1,10 @@
 ##                  Hi 👋, I'm Dogukan Surucu  
   
 
-***I have a strong interest 
-in the fields of Data Analytics, Data Science and Machine Learning. I develop projects in these areas.***  
+*** Veri Veri Bilimi alanına yoğun bir ilgim var. Bu alanda kendimi geliştiyorum ve projeler yapıyorum.***  
 
 
-- 📫 How to reach me: surucudogukan3@gmail.com  
+- 📫 Bana ulaşmak için: surucudogukan3@gmail.com  
   
 
 <br/>  

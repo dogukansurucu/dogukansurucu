@@ -1,7 +1,7 @@
 ##                  Merhaba 👋, Ben Doğukan.
   
 
-Yazılım geliştirme ve Veri Bilimi alanına yoğun bir ilgim var. Bu alanda kendimi geliştiyorum ve projeler yapıyorum.
+Yazılım Geliştirme ve Veri Bilimi alanına yoğun bir ilgim var. Bu alanda kendimi geliştiyorum ve projeler yapıyorum.
 
 
 - 📫 Bana ulaşmak için: surucudogukan3@gmail.com  
